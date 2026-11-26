@@ -6,5 +6,10 @@ A simple paint program made with Python, Tkinter, and Pillow. The drawing is sto
 ### ✓ Bigger brush range
 **What I did:** I changed the brush size slider so it can go much thicker. Originally, the maximum brush size was only 30. I changed the `to=` value of the slider to 100 (`from_=1` is still the thinnest).
 
-Snippet of the original code:
-![Bigger Brush Original]()
+**Snippet of the original code:**
+
+![Bigger Brush Original](ss/Brush_size_orgnl.png)
+
+**Snippet of the new code:**
+
+![Bigger Brush Original](ss/Brush_size_orgnl.png)
