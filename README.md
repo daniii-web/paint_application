@@ -1,6 +1,10 @@
 # My Paint Application
 A simple paint program made with Python, Tkinter, and Pillow. The drawing is stored in a Pillow image, so everything you see on the canvas (strokes and shapes) is also saved when you press **Save**.
 
+## The GUI
+![GUI](ss/UI.png)
+![GUI](ss/UI_2.png)
+
 ## REQUIREMENTS COMPLETED
 
 ### ✓ Bigger Brush Range
@@ -85,10 +89,15 @@ Clicking a button immediately changes the drawing color (and the color of the "C
 
 
 ### ✓ Redo button
+**What it does:** Brings back the action that was just undone.
 
-Brings back the action that was just undone.
+**Added code:**
+
+![Redo](ss/Redo.png)
 
 ### ✓ Keyboard shortcuts
-
 Ctrl+Z for Undo and Ctrl+Y for Redo.
 
+**Added code:**
+
+![Shortcuts](ss/Shortcuts.png)
