@@ -12,4 +12,4 @@ A simple paint program made with Python, Tkinter, and Pillow. The drawing is sto
 
 **Snippet of the new code:**
 
-![Bigger Brush Original](ss/Brush_size_orgnl.png)
+![Bigger Brush Original](ss/Updated_brush_size.png)
